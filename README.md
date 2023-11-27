@@ -1,4 +1,4 @@
-# Pandas-Library
+# Sales Data Analysis Case
 Data manipulation and vizualization case, using pandas, numpy, seaborn and plotly libraries.
 
 The dataset consists of sales information from an online store covering the entire Brazilian territory, operating in various departments through multiple sales channels.
